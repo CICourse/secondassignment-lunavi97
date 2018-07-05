@@ -1,13 +1,11 @@
 package com.udemy.secondassignment.SecondAssignment;
 
 /**
- * Hello world!
+ * 
+ * @author lunavi97
  *
  */
-public class App 
+public interface App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+    public abstract int sum(final int a, final int b) throws Exception;
 }
