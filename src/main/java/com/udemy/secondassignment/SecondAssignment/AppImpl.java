@@ -4,6 +4,7 @@
 package com.udemy.secondassignment.SecondAssignment;
 
 /**
+ * Clase que implementa App.
  * @author lunavi97
  *
  */

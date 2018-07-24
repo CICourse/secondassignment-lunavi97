@@ -1,7 +1,7 @@
 package com.udemy.secondassignment.SecondAssignment;
 
 /**
- * 
+ * Interface App.
  * @author lunavi97
  *
  */
