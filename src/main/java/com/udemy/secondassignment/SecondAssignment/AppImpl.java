@@ -15,7 +15,7 @@ public class AppImpl implements App {
 	 */
 	@Override
 	public int sum(int a, int b) throws Exception {
-		return a + b;
+		throw new RuntimeException("Método no implementado");
 	}
 
 }
