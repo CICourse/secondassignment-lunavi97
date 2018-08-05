@@ -15,7 +15,7 @@ public class AppImpl implements App {
 	 */
 	@Override
 	public int sum(int a, int b) throws Exception {
-		return a - b;
+		return a + b;
 	}
 
 	/* (non-Javadoc)
