@@ -47,5 +47,20 @@ public class AppImplTest {
 	public void testSum3() throws Exception {
 		assertEquals(-1, app.sum(2, -3));
 	}
+	
+	@Test
+	public void testSub1() throws Exception {
+		assertEquals(0, app.subtraction(1, 1));
+	}
+
+	@Test
+	public void testSub2() throws Exception {
+		assertEquals(-1, app.subtraction(1, 2));
+	}
+	
+	@Test
+	public void testSub3() throws Exception {
+		assertEquals(5, app.subtraction(2, -3));
+	}
 
 }

@@ -18,4 +18,12 @@ public class AppImpl implements App {
 		throw new RuntimeException("Método no implementado");
 	}
 
+	/* (non-Javadoc)
+	 * @see com.udemy.secondassignment.SecondAssignment.App#subtraction(int, int)
+	 */
+	@Override
+	public int subtraction(int a, int b) throws Exception {
+		throw new RuntimeException("Método no implementado");
+	}
+	
 }
